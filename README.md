@@ -3,7 +3,8 @@ PREDICTING THE TEN YEAR RISK OF DEVELOPING HEART DISEASE USING MACHINE LEARNING
 
 
 Heart attacks are mainly caused by cardiovascular diseases (CVDs). CVDs refers to the set of the heart and blood vessels disorders such as: coronary heart disease, cerebrovascular disease, peripheral arterial disease, rheumatic heart disease.
-The aim of this project is to use clinical diagnosis data (Framingham dataset ) as an input to predict whether a patient has 10 years risk of developing coronary heart disease as an output using SVM (Support Vector Machine), Random forest and ANN algorithms with the best accuracy and performance. 
+The aim of this project is to use clinical diagnosis data (Framingham dataset ) as an input to predict whether a patient has 10 years risk of developing coronary heart disease as an output using SVM (Support Vector Machine), Random forest and ANN algorithms with the best accuracy and performance.
+
 The methodology steps for this project proposed as follow:
 
 
